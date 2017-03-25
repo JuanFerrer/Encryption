@@ -1,0 +1,6 @@
+D:\CHICOS\Juani\Programming\C#\Encryption\bin\Debug\Encryption.exe.config
+D:\CHICOS\Juani\Programming\C#\Encryption\bin\Debug\Encryption.exe
+D:\CHICOS\Juani\Programming\C#\Encryption\bin\Debug\Encryption.pdb
+D:\CHICOS\Juani\Programming\C#\Encryption\obj\Debug\Encryption.exe
+D:\CHICOS\Juani\Programming\C#\Encryption\obj\Debug\Encryption.pdb
+D:\CHICOS\Juani\Programming\C#\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
