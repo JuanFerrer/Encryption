@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Encryption")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Encrypt and decrypt text using RijndaelManaged class")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Juan Ferrer")]
 [assembly: AssemblyProduct("Encryption")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
